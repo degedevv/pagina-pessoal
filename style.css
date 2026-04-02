@@ -21,14 +21,14 @@ h2 {
 }
 
 h2.obs {
-    margin-top: 45px;
+    margin-top: 0px;
     color: #ffcc4d;
 
 }
 
 p.obs{
     width: 600px;
-    margin: -25px auto 0
+    margin: 15px auto 0
 
 }
 p.agradecimento{
