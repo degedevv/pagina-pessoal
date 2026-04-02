@@ -1,7 +1,6 @@
 html,
 body {
   font-family: "Poppins", sans-serif;
-  height: 100%;
   margin: 0;
   padding: 0;
   background: linear-gradient(to bottom, #0a2540, #1f8ef1);
@@ -11,8 +10,7 @@ body {
 
 }
 
-h1,
-h2 {
+h1,h2 {
   color: white;
   margin: 0;
   padding: 1.5%;
@@ -35,7 +33,6 @@ p.obs{
 }
 p.agradecimento{
     font-family:'Times New Roman', Times, serif;
-    margin-top: 100px;
     color:#ffcc4d ;
 
 }
