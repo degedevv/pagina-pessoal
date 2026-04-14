@@ -29,7 +29,7 @@ p{
   padding: 10px;
 }
 
-a {
+a.redes {
   color: #ffcc4d;
   text-decoration: none;
   margin: 25px;
@@ -42,7 +42,7 @@ hr {
 
 p.agradecimento {
   margin: 15px;
-  color: #ffcd4db5;
+  color: #ffcd4ddf;
   font-style: italic;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -50,6 +50,12 @@ p.agradecimento {
  a:hover {
   text-decoration: underline;
   color:#ffcd4dd7 ;
+}
+
+#eu {
+  height: 50px;
+  margin-right: 100%;
+  margin-top: ;
 }
 
 
