@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
   width: 100%;
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(to bottom, #0a2540 30%, #135895);
+  background: linear-gradient(to bottom, #0a2540, #135895);
   text-align: center;
   line-height: 1.6;
   font-size: xx-large;
