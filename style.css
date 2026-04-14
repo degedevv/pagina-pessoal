@@ -1,12 +1,11 @@
 html, body {
   font-family: "Poppins", sans-serif;
-  margin-bottom: 4px;
-  padding: 0px;
   background: linear-gradient(to bottom, #0a2540 30%, #135895);
   text-align: center;
   line-height: 1.6;
-
-
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
 
 }
 
@@ -23,19 +22,16 @@ h2 {
 h3,h2.obs {
     color: #ffcc4d;
     margin-top: 5px;
-
 }
 
-p, p.obs{
-  padding: 10px;
-  margin-top: -22px;
+p{
   color: white;
-
+  padding: 10px;
 }
+
 p.agradecimento{
     font-family:'Times New Roman', Times, serif;
     color:#ffcc4d ;
-    padding: 30px;
 }
 
 
@@ -48,18 +44,18 @@ a {
 
 
 hr {
-  margin: 17px;
-  box-shadow: 0 0 10px #ffcc4d;
-
+  box-shadow: 0 0px 20px #ffcc4d;
 }
 
 p.titulo_agradecimento {
   margin: 15px;
 }
 
-a:active {
+ a:hover {
   text-decoration: underline;
+  color:#ffcd4dd7 ;
 }
+
 
 .destaque{
     color:#ffcc4d ;
