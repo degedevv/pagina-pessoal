@@ -7,14 +7,14 @@
 
 
 html {
-  height: 100%;
+  min-height: 100%;
+  margin: 0;
 }
 
 body {
-  min-height: 100vh;
-  width: 100%;
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(to bottom, #0a2540, #135895);
+  background: linear-gradient(to bottom, #0a2540 50%, #135895);
+  background-repeat: no-repeat;
   text-align: center;
   line-height: 1.6;
   font-size: xx-large;
