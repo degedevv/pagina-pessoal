@@ -29,13 +29,6 @@ p{
   padding: 10px;
 }
 
-p.agradecimento{
-    font-family:'Times New Roman', Times, serif;
-    color:#ffcc4d ;
-}
-
-
-
 a {
   color: #ffcc4d;
   text-decoration: none;
@@ -47,8 +40,11 @@ hr {
   box-shadow: 0 0px 20px #ffcc4d;
 }
 
-p.titulo_agradecimento {
+p.agradecimento {
   margin: 15px;
+  color: #ffcd4db5;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
  a:hover {
